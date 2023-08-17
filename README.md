@@ -1,2 +1,2 @@
 # vivekp
-Demo for git and github class
+Demo for git and github class.
